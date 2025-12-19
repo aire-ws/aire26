@@ -1,2 +1,2 @@
-# aire25
-12th International Workshop on Artificial Intelligence and Requirements Engineering
+# aire26
+13th International Workshop on Artificial Intelligence and Requirements Engineering
